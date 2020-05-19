@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/sage.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/marigold.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/liquorice.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/herb.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/Clover.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/balinese.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/aloe.jpg",
+      "clicked": false
+    }
+]
+  
